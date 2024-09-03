@@ -1,9 +1,9 @@
-name: Main Branch
+name: Dev Branch
 
 on:
   push:
     branches:
-      - main
+      - dev
 
 
 jobs:
